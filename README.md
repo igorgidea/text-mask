@@ -39,3 +39,4 @@ It works on mobile, has no 3rd party dependencies, and has a tiny footprint (les
 ## License
 
 Public domain - [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+
